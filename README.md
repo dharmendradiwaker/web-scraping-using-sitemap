@@ -35,7 +35,7 @@ This data extraction can be useful for research, analysis, or understanding more
 ## Setup ⚙️
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your_username/web-scraping-project.git
+   git clone https://github.com/dharmendradiwaker/web-scraping-using-sitemap.git
    ```
 
 2. Install the required Python libraries using pip:
